@@ -1,0 +1,4 @@
+html { font-size: 62.5%; font-family: Arial, Sans-Serif; }
+body { font-size: 1.4em; padding: 1em;  }
+label { width: 12em; float: left; }
+input[type=submit] { background-color: #00c; color: white; font-weight: bold; padding: .3em; }
