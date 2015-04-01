@@ -16,7 +16,9 @@ http://search.cpan.org/~falcone/HTTP-Server-Simple-0.50/lib/HTTP/Server/Simple.p
 ## Dependencies
 
 Uses MIME::Types from CPAN:
-http://search.cpan.org/~markov/MIME-Types-2.04/lib/MIME/Types.pod
+http://search.cpan.org/~markov/MIME-Types-2.09/lib/MIME/Types.pod
+
+Install it into ./modules.
 
 ## License
 
